@@ -1,0 +1,21 @@
+body{
+    background: url(bck.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.rowHeight{
+    height: 500px;
+}
+
+h1{
+    color: #000;
+    font-size: 2.5em;
+}
+
+,bg{
+    background-color: #c1c1c1;
+    opacity: 0.8;
+}
